@@ -1,0 +1,38 @@
+body{
+    background:#f9c;
+}
+a{
+    color:blue
+}
+a:link{
+    color:green;
+}
+a:visited{
+    color:#333;
+}
+a:hover{
+    color:white;
+}
+a:active{
+    color:yellow;
+}
+ul{padding: 0;margin: 0;}
+ul>li{
+    font-size: 20px;
+    color:white;
+    list-style: none;
+}
+.bg{
+    width:400px;
+    height:600px;
+    background: url('./img/5.jpg') no-repeat center;
+    background-size:contain;
+    border-top-left-radius:40px 200px;
+    border-top-right-radius:40px 200px;
+    box-shadow:5px 5px 16px rgba(0, 0, 0, .5)
+}
+.ot{
+    color:green;
+    font-size: 22px;
+    font-family: '微软雅黑';
+}
