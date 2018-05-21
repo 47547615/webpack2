@@ -8,10 +8,8 @@ import 'font-awesome/css/font-awesome.css';
 // 模块化的CSS
 import main from './main.css';
 
-
 import img1 from './img/4.jpg';
 
-console.log(main);
 
 react_dom.render(
     <div>
