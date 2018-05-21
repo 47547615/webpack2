@@ -10,6 +10,8 @@ import main from './main.css';
 
 import img1 from './img/4.jpg';
 
+alert(123)
+
 
 react_dom.render(
     <div>
